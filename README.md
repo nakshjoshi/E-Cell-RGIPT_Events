@@ -1,2 +1,2 @@
-# E-Cell_Events
+# E-Cell_RGIPT: Events
 Contributor: Nakshatra Joshi
